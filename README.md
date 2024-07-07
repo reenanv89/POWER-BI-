@@ -6,14 +6,14 @@ This project analyzes the New York City Airbnb Open Data to uncover key insights
 ## Key Insights
 - **Neighborhood Analysis:** Identified high-demand neighborhoods.
 - **Price Trends:** Seasonal variations in pricing.
-- **Review Impact:** Correlation between number of reviews and price.
+- **Review Impact:** Correlation between number of reviews and Room type.
 - **Room Types:** Distribution of different room types.
 - **Geographic Distribution:** Visualized listings on a map.
 
 ## Visualizations
-- Bar Chart: Listings by Neighborhood
-- Line Chart: Price Trends Over Time
-- Pie Chart: Room Type Distribution
+- Bar Chart: Listings by Room type
+- Line Chart:Neighbour hood groups by Neighbour hood
+- Pie Chart: Bookings by Neighbour hood group
 - Map: Geographic Distribution of Listings
 - Table: Summary Statistics
 
